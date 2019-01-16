@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "nama": "Anoa",
+      "jenis": "herbivora",
+      "gambar": "https://vignette.wikia.nocookie.net/zt2downloadlibrary/images/6/6a/Anoa.png/revision/latest?cb=20150131184945",
+      "txten": "Anoa",
+      "suara": "Anoa"
+    },
+    {
+      "nama": "Badak",
+      "jenis": "herbivora",
+      "gambar": "http://pluspng.com/img-png/badak-png-badak-jawa-ujung-kulon-west-java-indonesia-500.jpg",
+      "txten": "Rhino",
+      "suara": "Badak"
+    },
+    {
+      "nama": "Banteng",
+      "jenis": "herbivora",
+      "gambar": "https://vignette.wikia.nocookie.net/mafiawars/images/8/8a/Huge_item_banteng_01.png/revision/latest?cb=20130607103255",
+      "txten": "bull",
+      "suara": "Banteng"
+    },
+    {
+      "nama": "Belalang",
+      "jenis": "herbivora",
+      "gambar": "https://tenteraverbisa.files.wordpress.com/2017/11/belalang.jpg?w=1180",
+      "txten": "Grasshopper",
+      "suara": "Belalang"
+    },
+    {
+      "nama": "Bison",
+      "jenis": "herbivora",
+      "gambar": "http://www.pngmart.com/files/5/Bison-PNG-Clipart.png",
+      "txten": "Byson",
+      "suara": "Bison"
+    },
+    {
+      "nama": "Domba",
+      "jenis": "herbivora",
+      "gambar": "http://rumahaqiqah.weebly.com/uploads/7/1/2/7/7127698/236979.png?221",
+      "txten": "sheep",
+      "suara": "Domba"
+    },
+    {
+      "nama": "Gajah",
+      "jenis": "herbivora",
+      "gambar": "https://cdn.pixabay.com/photo/2017/06/01/07/31/elephant-2362696_960_720.png",
+      "txten": "Elephant",
+      "suara": "Gajah"
+    },
+    {
+      "nama": "Iguana",
+      "jenis": "herbivora",
+      "gambar": "http://pluspng.com/img-png/iguana-png-the-iguana-team-has-over-20-years-experience-manufacturing-installing-signage-in-the-brisbane-area-and-nationally-our-production-team-understands-the-739.png",
+      "txten": "Iguanas",
+      "suara": "Iguana"
+    },
+    {
+      "nama": "jerapah",
+      "jenis": "herbivora",
+      "gambar": "https://www.kalimantanpers.co.id/wp-content/uploads/2018/02/jerapah-of-gambar-jerapah-1.jpg",
+      "txten": "Giraffes",
+      "suara": "jerapah"
+    },
+    {
+      "nama": "Kambing",
+      "jenis": "herbivora",
+      "gambar": "https://i0.wp.com/www.ruangtani.com/wp-content/uploads/2016/03/kambing-etawa.png?resize=390%2C311",
+      "txten": "Goat",
+      "suara": "Kambing"
+    },
+    {
+      "nama": "Kangguru",
+      "jenis": "herbivora",
+      "gambar": "https://cdn130.picsart.com/259156228022202.png?r240x240",
+      "txten": "kangaroo",
+      "suara": "Kangguru"
+    },
+    {
+      "nama": "Kelinci",
+      "jenis": "herbivora",
+      "gambar": "https://ngedisainlogo.files.wordpress.com/2017/08/b8159-sukses-ternak-kelinci-dengan-modal-500rb.png?w=434&h=322",
+      "txten": "Rabbit",
+      "suara": "Kelinci"
+    },
+    {
+      "nama": "Anjing",
+      "jenis": "karnivora",
+      "gambar": "https://e04-elmundo.uecdn.es/assets/multimedia/imagenes/2015/10/29/14461165330149.jpg",
+      "txten": "Dog",
+      "suara": "Anjing"
+    },
+    {
+      "nama": "Beruang",
+      "jenis": "karnivora",
+      "gambar": "https://vignette.wikia.nocookie.net/vsdebating/images/8/8b/PNGPIX-COM-Bear-PNG-Transparent-Image-500x376.png/revision/latest?cb=20170710145935",
+      "txten": "Bear",
+      "suara": "Beruang"
+    },
+    {
+      "nama": "Buaya",
+      "jenis": "karnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kmw6Owf2CAvTpBcGmkHH6hWMMsI2O5eR5s4DsGp-ue5fx5I9",
+      "txten": "Crocodile",
+      "suara": "Buaya"
+    },
+    {
+      "nama": "Burung Elang",
+      "jenis": "karnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyG2eBteQ-C5VM0hnNppdFzjB94Wam22J1jF9pVJhl18cJOoC",
+      "txten": "Eagle",
+      "suara": "Burung Elang"
+    },
+    {
+      "nama": "Harimau",
+      "jenis": "karnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUBMKjX0Pm1w2RmXvOMvuT-ndoyWRJZ13IXIRplXFbT5yTFL61w",
+      "txten": "Tiger",
+      "suara": "Harimau"
+    },
+    {
+      "nama": "Hiu",
+      "jenis": "karnivora",
+      "gambar": "https://cdn130.picsart.com/251486855028212.png?r240x240",
+      "txten": "Shark",
+      "suara": "Hiu"
+    },
+    {
+      "nama": "Komodo",
+      "jenis": "karnivora",
+      "gambar": "https://vignette.wikia.nocookie.net/rwby/images/f/f3/Komodo-dragon-white-background.jpeg/revision/latest?cb=20161127155835",
+      "txten": "Komodo",
+      "suara": "Komodo"
+    },
+    {
+      "nama": "Kucing",
+      "jenis": "karnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmH6mzhTSCU3MMAV0s4x3i67oPdvZMl0vSvwM6Z5HXAlRXU_9A",
+      "txten": "Cat",
+      "suara": "Kucing"
+    },
+    {
+      "nama": "Macan Tutul",
+      "jenis": "karnivora",
+      "gambar": "https://previews.123rf.com/images/isselee/isselee0909/isselee090900475/5570346-portrait-of-leopard-panthera-pardus-standing-in-front-of-white-background-studio-shot.jpg",
+      "txten": "Lepoard",
+      "suara": "Macan Tutul"
+    },
+    {
+      "nama": "Serigala",
+      "jenis": "karnivora",
+      "gambar": "https://cdn.pixabay.com/photo/2015/04/05/17/34/wild-animal-708258_960_720.png",
+      "txten": "Wolf",
+      "suara": "Serigala"
+    },
+    {
+      "nama": "Singa",
+      "jenis": "karnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytnAjLcy5tBNPDotOzzJnHwzi_smkNKg5M9BavGS4IFdhC6s_",
+      "txten": "Lion",
+      "suara": "Singa"
+    },
+    {
+      "nama": "Ular kobra",
+      "jenis": "karnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXgVBnNKcl5EWgjROZgayvijmNkXqGhllQwXldfOM27CbAKRh",
+      "txten": "Cobra",
+      "suara": "Ular kobra"
+    },
+    {
+      "nama": "Ayam",
+      "jenis": "omnivora",
+      "gambar": "http://4.bp.blogspot.com/-11qMge05Uq8/Ui17OOYR5rI/AAAAAAAAAoo/Dl3_YUH3kCk/s1600/Harga-Ayam-Broiler-Hari-Ini.png",
+      "txten": "Chiken",
+      "suara": "Ayam"
+    },
+    {
+      "nama": "Babi",
+      "jenis": "omnivora",
+      "gambar": "https://perrocarnivoro.files.wordpress.com/2013/03/cerdo.jpg",
+      "txten": "Pig",
+      "suara": "Babi"
+    },
+    {
+      "nama": "Bebek",
+      "jenis": "omnivora",
+      "gambar": "https://bebeklombok.files.wordpress.com/2015/05/peternak-bebek-lombok.jpg",
+      "txten": "Duck",
+      "suara": "Bebek"
+    },
+    {
+      "nama": "Flamingo",
+      "jenis": "omnivora",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA528oQKqQagM_S1Qb80c6gZP24P3SqXpZwdhYGQOOnW8YTyIJ",
+      "txten": "Flamingo",
+      "suara": "Flamingo"
+    },
+    {
+      "nama": "Gorila",
+      "jenis": "omnivora",
+      "gambar": "https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/02/11123620/Gorilla-PNG-Photos-1024x746.png",
+      "txten": "Gorilla",
+      "suara": "Gorila"
+    },
+    {
+      "nama": "Ikan",
+      "jenis": "omnivora",
+      "gambar": "http://heriyantoagussks131.esy.es/wp-content/uploads/2016/02/gold-fish1.jpg",
+      "txten": "Fish",
+      "suara": "Ikan"
+    },
+    {
+      "nama": "Paus",
+      "jenis": "omnivora",
+      "gambar": "http://pngimg.com/uploads/whale/whale_PNG19266.png",
+      "txten": "Whale",
+      "suara": "Paus"
+    },
+    {
+      "nama": "Lumba - Lumba",
+      "jenis": "omnivora",
+      "gambar": "http://pngimg.com/uploads/dolphin/dolphin_PNG9126.png",
+      "txten": "Dolphin",
+      "suara": "Lumba - Lumba"
+    },
+    {
+      "nama": "Monyet",
+      "jenis": "omnivora",
+      "gambar": "https://thumbs.dreamstime.com/b/vervet-monkey-chlorocebus-pygerythrus-5204577.jpg",
+      "txten": "Monkey",
+      "suara": "Monyet"
+    },
+    {
+      "nama": "Musang",
+      "jenis": "omnivora",
+      "gambar": "https://media.nbcnewyork.com/images/1200*676/tlmd_tlmd_082912_ferret.jpg",
+      "txten": "Weasel",
+      "suara": "Musang"
+    },
+    {
+      "nama": "Orangutan",
+      "jenis": "omnivora",
+      "gambar": "https://4ourecosystem.files.wordpress.com/2017/07/orangutan_png22.png",
+      "txten": "Orangutan",
+      "suara": "Orangutan"
+    },
+    {
+      "nama": "Tikus",
+      "jenis": "omnivora",
+      "gambar": "https://3.bp.blogspot.com/-YC6Hk-Zr9U8/V1MTtb7RzhI/AAAAAAAAAPg/_4wKlCDwj4QE_SeJwzVxwQwZPHEYkvBvwCLcB/s1600/tikus.png",
+      "txten": "mouse",
+      "suara": "Tikus"
+    }
+  ]
+}

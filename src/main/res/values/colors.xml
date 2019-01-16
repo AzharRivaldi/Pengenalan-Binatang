@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e9be3d</color>
+    <color name="colorPrimaryDark">#f0ac73</color>
+    <color name="colorAccent">#faf5ee</color>
+
+    <color name="background">#faf5ee</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#090909</color>
+    <color name="colorBlackGrey">#131313</color>
+    <color name="colorBlackSecond">#272727</color>
+    <color name="colorLightGrey">#9ea1a3</color>
+
+    <color name="colorLarangan">#f71414</color>
+    <color name="colorPeringatan">#ffee03</color>
+    <color name="colorPerintah">#1404f4</color>
+    <color name="colorPetunjuk">#12b709</color>
+</resources>
